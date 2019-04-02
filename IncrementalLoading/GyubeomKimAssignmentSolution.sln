@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQLcode", "SQLcode", "{A9DF0769-77DC-4DB9-A3D8-FA0C6501AFD5}"
+	ProjectSection(SolutionItems) = preProject
+		SQLcode\GyubeomKimETLScript.sql = SQLcode\GyubeomKimETLScript.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Document", "Document", "{B2F4B7BA-0C49-4695-A85E-32E03675E169}"
+	ProjectSection(SolutionItems) = preProject
+		Document\Assignment3(INFO498).docx = Document\Assignment3(INFO498).docx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23220832-B0D4-4DE8-A34D-4E33D94C3B37}
+	EndGlobalSection
+EndGlobal
